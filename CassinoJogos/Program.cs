@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CassinoJogos
 {
-    internal class Program
+    public class Program
     {
         static Random rnd = new Random();
         static double saldo = 100;
